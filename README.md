@@ -1,4 +1,4 @@
-# D-FS: A Novel Integration Method of Discretization and Feature Selection
+# Beyond Matching: Modeling Two-Sided Multi-Behavioral Sequences For Dynamic Person-Job Fit
 
 Paper: 
 Bin Fu, Hongzhi Liu*, Yao Zhu, Yang Song, Tao Zhang, Zhonghai Wu*. Beyond Matching: Modeling Two-Sided Multi-Behavioral Sequences For Dynamic Person-Job Fit. The 26th International Conference on Database Systems for Advanced Applications (DASFAA 2021), April 11-14, 2021.
@@ -19,7 +19,7 @@ The source code is a demo used for academic exchange!
 
 Bibtex:
 ```
-@inproceedings{DBLP:conf/ispan/FuLJWH17,
+@inproceedings{
   author    = {Bin Fu and
                Hongzhi Liu and
               Yao Zhu and
