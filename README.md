@@ -14,7 +14,7 @@ With going deep into the process of online PJF, we observed abundant auxiliary b
 * pytorch
 * cuda10 + cudnn7 1.4.0
 
-The source code is a demo used for academic exchange!
+The source code is a demo used for academic exchange. We will upload our source code soon!
 
 
 Bibtex:
