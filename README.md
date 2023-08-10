@@ -1,3 +1,5 @@
+This work was done during my internship in Boss Zhipin, just be used for the purpose of academic exchange!
+
 # Beyond Matching: Modeling Two-Sided Multi-Behavioral Sequences For Dynamic Person-Job Fit
 
 Paper: 
